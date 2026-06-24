@@ -7,6 +7,7 @@ Soy Técnico en Programación Informática de la UNSAM, con formación en desarr
 Durante mis proyectos académicos y personales trabajé principalmente con Kotlin, Spring Boot, React, PostgreSQL, MongoDB, Redis y Docker. En ese proceso fui aplicando conceptos como programación orientada a objetos, testing, patrones de diseño y arquitectura por capas.
 
 Actualmente estoy buscando mi primera oportunidad profesional en IT para seguir aprendiendo, participar en proyectos reales y continuar creciendo como desarrollador.
+
 ---
 
 ### 🛠️ Stack Técnico
