@@ -39,12 +39,12 @@ Actualmente estoy buscando mi primera oportunidad profesional en IT para seguir 
 
 Debido a que algunos de estos proyectos fueron desarrollados de forma colaborativa, creé repositorios de exhibición donde detallo la arquitectura, toma de decisiones, desafíos técnicos y demostraciones visuales de cada uno, sin exponer el código del equipo.
 
-#### 🐄 [Vaquita - Gestión Compartida de Gastos - Proyecto Universitario](https://github.com/JuanMaidana01/vaquita-showcase)
+#### 🐄 [Vaquita - Gestión Compartida de Gastos](https://github.com/JuanMaidana01/vaquita-showcase)
 Aplicación para dividir gastos compartidos. Permite la carga automática de tickets mediante escaneo OCR integrado con la API de Gemini, cálculo de balances y almacenamiento de comprobantes.
 * **Stack:** React, Tailwind, Kotlin, Spring Boot, PostgreSQL, Supabase, API Gemini, Docker.
 * 👉 [Ver arquitectura, demostración y detalles técnicos](https://github.com/JuanMaidana01/vaquita-showcase)
 
-#### 📚 [Booklibre - Biblioteca Digital - Proyecto Universitario](https://github.com/JuanMaidana01/booklibre-showcase)
+#### 📚 [Booklibre - Biblioteca Digital](https://github.com/JuanMaidana01/booklibre-showcase)
 Aplicación para gestionar préstamos de libros, con un sistema de usuarios, calificaciones, métricas y optimización de performance mediante cacheo.
 * **Stack:** React, Tailwind, Kotlin, Spring Boot, PostgreSQL, MongoDB, Redis, Docker.
 * 👉 [Ver arquitectura, demostración y detalles técnicos](https://github.com/JuanMaidana01/booklibre-showcase)
