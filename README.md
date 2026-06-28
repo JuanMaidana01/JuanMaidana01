@@ -1,58 +1,41 @@
-# ¡Hola! Soy Juan Manuel Maidana 👋
+# Juan Manuel Maidana
 
-### Trainee / Junior Full Stack Developer | Kotlin, Spring Boot & React 💻
+Trainee Full Stack Developer · Kotlin / Spring Boot / React
 
-Soy Técnico en Programación Informática de la UNSAM, con formación en desarrollo backend y full stack. Me interesa especialmente el desarrollo de APIs, el diseño de bases de datos y la construcción de aplicaciones utilizando Kotlin, Spring Boot y React.
-
-Durante mis proyectos académicos y personales trabajé principalmente con Kotlin, Spring Boot, React, PostgreSQL, MongoDB, Redis y Docker. En ese proceso fui aplicando conceptos como programación orientada a objetos, testing, patrones de diseño y arquitectura por capas.
-
-Actualmente estoy buscando mi primera oportunidad profesional en IT para seguir aprendiendo, participar en proyectos reales y continuar creciendo como desarrollador.
+Técnico en Programación Informática (UNSAM). Me enfoco en desarrollo backend con
+Kotlin y Spring Boot, y en construir aplicaciones full stack con React. Actualmente
+en búsqueda de mi primera oportunidad profesional en desarrollo de software.
 
 ---
 
-### 🛠️ Stack Técnico
+### Stack
 
-**Backend & Bases de Datos**
-<br>
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-
-**Frontend**
-<br>
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Herramientas & Infraestructura**
-<br>
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-### 📂 Proyectos Destacados
+### Proyectos
 
-Debido a que algunos de estos proyectos fueron desarrollados de forma colaborativa, creé repositorios de exhibición donde detallo la arquitectura, toma de decisiones, desafíos técnicos y demostraciones visuales de cada uno, sin exponer el código del equipo.
+**[Vaquita](https://github.com/JuanMaidana01/vaquita-showcase)** — Gestión compartida de
+gastos con carga de tickets vía OCR (API Gemini), cálculo de balances y almacenamiento
+de comprobantes.
+Stack: React · Kotlin · Spring Boot · PostgreSQL · Supabase · Gemini API
 
-#### 🐄 [Vaquita - Gestión Compartida de Gastos](https://github.com/JuanMaidana01/vaquita-showcase)
-Aplicación para dividir gastos compartidos. Permite la carga automática de tickets mediante escaneo OCR integrado con la API de Gemini, cálculo de balances y almacenamiento de comprobantes.
-* **Stack:** React, Tailwind, Kotlin, Spring Boot, PostgreSQL, Supabase, API Gemini, Docker.
-* 👉 [Ver arquitectura, demostración y detalles técnicos](https://github.com/JuanMaidana01/vaquita-showcase)
+**[BookLibre](https://github.com/JuanMaidana01/booklibre-showcase)** — Plataforma de
+biblioteca digital con gestión de préstamos, calificaciones, métricas y cacheo de datos.
+Stack: React · Kotlin · Spring Boot · PostgreSQL · MongoDB · Redis
 
-#### 📚 [Booklibre - Biblioteca Digital](https://github.com/JuanMaidana01/booklibre-showcase)
-Aplicación para gestionar préstamos de libros, con un sistema de usuarios, calificaciones, métricas y optimización de performance mediante cacheo.
-* **Stack:** React, Tailwind, Kotlin, Spring Boot, PostgreSQL, MongoDB, Redis, Docker.
-* 👉 [Ver arquitectura, demostración y detalles técnicos](https://github.com/JuanMaidana01/booklibre-showcase)
+Repos de exhibición con arquitectura, decisiones técnicas y demos — los proyectos
+originales son colaborativos y no expongo código de equipo.
 
 ---
 
-### 📫 Contacto
-
-💼 LinkedIn: https://linkedin.com/in/juanmanuelmaidana
-
-📧 Email: juanmaidana1106@gmail.com
+[LinkedIn](https://linkedin.com/in/juanmanuelmaidana) · juanmaidana1106@gmail.com
